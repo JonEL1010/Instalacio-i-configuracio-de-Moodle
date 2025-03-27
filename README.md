@@ -34,6 +34,69 @@
 <img src="24.png">
 
 ## 4. Creació d'usuaris
-### Primer tenim que crear un usuari anomenat Bob fent el seguent
+### Primer tenim que crear un usuari anomenat Bob anant a Administració del lloc > Usuaris > Comptes > Afegeix un usuari, com es mostra a la captura
+<img src="45.png">
 
+### Despres creem 10 usuaris de fent servir un arxiu CSV per realitzar aquesta creació en bloc
 <img src="25.png">
+<img src="26.png">
+<img src="27.png">
+<img src="28.png">
+
+### Despres eliminarem a dos alumnes dels deu que ja hem creat donanli als 3 punts i li donem a esborrar
+<img src="29.png">
+
+## 5. Matricula aquests usuaris als diferents cursos
+<img src="31.png">
+<img src="32.png">
+<img src="33.png"> 
+<img src="35.png">
+
+### Posarem que bob sigui professor del curs B i afegirem alumnes
+<img src="34.png">
+<img src="28.png">
+<img src="30.png">
+<img src="38.png">
+
+### Comprovem que el curs A i B estiguin be configurats
+<img src="36.png">
+<img src="37.png"> 
+
+## 6. Per a canviar el tema del nostre lloc haurem de seguir aquests passos, Administració del lloc > Aparença > Temes > Selector de temes. Come s mostra a les fotos
+<img src="43.png">
+<img src="44.png">
+
+## 7. Ara el que farem sera asignar un professor i alumnes al curs A (en el mau cas ficare a bob de professor tambe al curs A)
+### Tenim que donar-li on posa "Usuarios matriculados"
+<img src="30.png">
+
+### Un cop li hem donat, seleccionarem tots el usuaris que volem que siguin alumnes
+<img src="40.png">
+
+### Ara farem el mateix pero posant a bob com a professor
+<img src="39.png">
+
+## 8. Posarem una tasca al curs A on els alumnes puguin lliurar la tasca on tambe posarem una fecha limit d'entrega
+<img src="41.png">
+
+## 9. Comprovem amb el compte d'un alumne que es por lliurar la tasca
+<img src="42.png">
+
+## Continguts
+
+
+## Qualificació
+
+
+## Qüestionaris
+
+
+## Importar i exportar un curs
+
+
+## Personalització
+
+
+## Seguretat
+
+
