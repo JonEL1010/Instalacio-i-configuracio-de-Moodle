@@ -83,13 +83,36 @@
 <img src="42.png">
 
 ## Continguts
+### Crearem una seccio que anomenarem UF i 2 recursos que es diguin NF1 i NF2
 
+<img src="Continguts1.png">
+<img src="Continguts2.png">
+<img src="Continguts3.png">
 
 ## Qualificació
+### Anirem a una tasca on un alumne hi hagi enviat la tasca i li cualificarem el seu treball
+<img src="Qualificacio1.png">
+<img src="Qualificacio2.png">
 
+### Ara posarem que aquella tasca costi el 100% per a que sigui la nota d'aquella UF, ya que nomes te una tasca, l'altra es una per repasar que no conte per a nota
+<img src="Qualificacio3.png">
+<img src="Qualificacio4.png">
+<img src="Qualificacio5.png">
+
+### Despres de fer aixó, el que farem sera otorgar una insignia (en el meu cas li donare aquesta insignia al millor alumne), posarem nom, descripcio i foto a l'insignia i despres configurem l'insignia per a que se la dongui als que hen entregat la tasca
+<img src="Insignia1.png">
+<img src="Insignia2.png">
+
+### Habilitarem l'insignia i aixi veurem qui te aquesta insigina (en el mau cas la te nomes un alumne ja que es l'unic que ha entregat la tasca)
+<img src="Insignia3.png">
+<img src="Insignia4.png">
 
 ## Qüestionaris
+### Dins de la UF afegim un questionari on li posem nom i descripció
+<img src="Questionario1.png">
 
+### Quan acceotem ens portara aqui, on tens que posar les preguntes del questionari. Un cop acabis li dones a guardar a la part superior dreta
+<img src="Questionario2.png">
 
 ## Importar i exportar un curs
 
