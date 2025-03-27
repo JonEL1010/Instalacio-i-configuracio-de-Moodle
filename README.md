@@ -18,12 +18,11 @@
 ### Comprova que la franja horària del teu lloc sigui la correcta i canvoia l'idioma del lloc
 
 
-### Canvia la política de contrasenyes
+### Canvia la política de contrasenyes. Tenim que anar a Administració del lloc > Seguretat > Normatives del lloc. Fet aixó estaras en aquesta pantalla, on pots posar com vols que siguin les contrasenyes dels alumnes
 <img src="8.png">
 
-## Crea un curs anomenat A que tingui 3 temes i un curs anomenat b que tingui 5 temes
+## Crea un curs anomenat A que tingui 3 temes i un curs anomenat b que tingui 5 temes. Per fer aixó tenim que seguir els pasos indicats de les captures. Tenim que repetir el proces dues vegades per a fer la clase B, ya que son els mateixos passos
 <img src="17.png">
 <img src="18.png">
 <img src="19.png">
 <img src="20.png">
-
