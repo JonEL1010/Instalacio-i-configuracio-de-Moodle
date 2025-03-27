@@ -27,10 +27,13 @@
 <img src="19.png">
 <img src="20.png">
 
-## 3. Per a posar per exemple un PDF a una clase hi ha que fer el seguent, li donarem al +, posem el nom de com volem que es digui la tasca i posem un PDF que hi hagis descaregat
+## 3. Per a posar per exemple un PDF a una clase hi ha que fer el seguent, li donarem al +, posem el nom de com volem que es digui la tasca i posem un PDF que hi hagis descaregat. En el meu cas a la clase A he posat un PDF anomenat "Reglamento futbol 11" i a la clase B "examen reglas futbol 11"
 <img src="21.png">
 <img src="22.png">
 <img src="23.png">
+<img src="24.png">
 
+## 4. Creació d'usuaris
+### Primer tenim que crear un usuari anomenat Bob fent el seguent
 
-
+<img src="25.png">
