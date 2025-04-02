@@ -99,7 +99,7 @@
 <img src="Qualificacio4.png">
 <img src="Qualificacio5.png">
 
-### Despres de fer aixó, el que farem sera otorgar una insignia (en el meu cas li donare aquesta insignia al millor alumne), posarem nom, descripcio i foto a l'insignia i despres configurem l'insignia per a que se la dongui als que hen entregat la tasca
+### Despres de fer aixó, el que farem sera otorgar una insignia (en el meu cas li donare aquesta insignia al millor alumne), posarem nom, descripcio i foto a l'insignia i despres configurem l'insignia per a que se la dongui als que han entregat la tasca
 <img src="Insignia1.png">
 <img src="Insignia2.png">
 
@@ -116,8 +116,6 @@
 
 ## Importar i exportar un curs
 
-
-## Personalització
 
 
 ## Seguretat
