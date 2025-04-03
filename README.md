@@ -111,7 +111,7 @@
 ### Dins de la UF que hem creat avans afegim un questionari on li posem nom i descripció
 <img src="Questionario1.png">
 
-### Quan acceotem ens portara aqui, on tens que posar les preguntes del questionari. Un cop acabis li dones a guardar a la part superior dreta
+### Quan acceptem ens portara aqui, on tens que posar les preguntes del questionari. Un cop acabis li dones a guardar a la part superior dreta
 <img src="Questionario2.png">
 
 ## Importar i exportar un curs
