@@ -115,9 +115,15 @@
 <img src="Questionario2.png">
 
 ## Importar i exportar un curs
-
+### Programarem una copia de seguretat anant a administracio -> copies de seguretat -> programar copia de seguretat
+<img src="cp1.png">
 
 
 ## Seguretat
+### Anirem a administracio de curs -> seguretat -> bloquejador Ip 
+<img src="s1.png">
+
+### Una vegada a bloquejador de IP posarem la Ip que volguem banejar i guardem els canvis
+<img src="s3.png">
 
 
